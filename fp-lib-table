@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name pj-051b)(type KiCad)(uri ${KIPRJMOD}/footprints/pj-051b.pretty)(options "")(descr ""))
+  (lib (name prog_header)(type KiCad)(uri ${KIPRJMOD}/footprints/prog_header.pretty)(options "")(descr ""))
+  (lib (name ottifant)(type KiCad)(uri ${KIPRJMOD}/footprints/ottifant.pretty)(options "")(descr ""))
+  (lib (name strip_header)(type KiCad)(uri ${KIPRJMOD}/footprints/strip_header.pretty)(options "")(descr ""))
+)

@@ -1,0 +1,291 @@
+Cmp-Mod V01 Created by PcbNew   date = Mi 30 Dez 2020 16:39:22 CET
+
+BeginCmp
+TimeStamp = 5C5E2F05
+Path = /5C48B5DE
+Reference = U2;
+ValeurCmp = ESP-12E;
+IdModule  = RF_Module:ESP-12E;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C702E7D
+Path = 
+Reference = G***;
+ValeurCmp = LOGO;
+IdModule  = ottifant:ottifant;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C5E2E21
+Path = /5C48BBDE
+Reference = J1;
+ValeurCmp = Jack-DC;
+IdModule  = pj-051b:pj-051b;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C5E2E66
+Path = /5C48DBF6
+Reference = Q1;
+ValeurCmp = AO3420;
+IdModule  = Package_TO_SOT_SMD:SOT-23;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C5E2E7B
+Path = /5C48DC68
+Reference = Q2;
+ValeurCmp = AO3420;
+IdModule  = Package_TO_SOT_SMD:SOT-23;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C5E2E90
+Path = /5C48DCD6
+Reference = Q3;
+ValeurCmp = AO3420;
+IdModule  = Package_TO_SOT_SMD:SOT-23;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C5E2EA1
+Path = /5C48BD77
+Reference = R1;
+ValeurCmp = 10k;
+IdModule  = Resistor_SMD:R_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C5E2EB2
+Path = /5C48BD39
+Reference = R2;
+ValeurCmp = 10k;
+IdModule  = Resistor_SMD:R_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C4F669A
+Path = /5C506BB1
+Reference = R3;
+ValeurCmp = 100k;
+IdModule  = Resistor_SMD:R_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C665CD7
+Path = /5C506BFF
+Reference = R4;
+ValeurCmp = 1k;
+IdModule  = Resistor_SMD:R_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C4F66BC
+Path = /5C50C040
+Reference = R5;
+ValeurCmp = 10k;
+IdModule  = Resistor_SMD:R_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C4F66CD
+Path = /5C50BE50
+Reference = R6;
+ValeurCmp = 10k;
+IdModule  = Resistor_SMD:R_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C4F66DE
+Path = /5C50BD11
+Reference = R7;
+ValeurCmp = 10k;
+IdModule  = Resistor_SMD:R_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C4F66DF
+Path = /5C539D0E
+Reference = U1;
+ValeurCmp = AMS1117-3.3;
+IdModule  = Package_TO_SOT_SMD:SOT-223-3_TabPin2;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C5B9718
+Path = /5C4F68E7
+Reference = C1;
+ValeurCmp = 100nF;
+IdModule  = Capacitor_SMD:C_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C5B9729
+Path = /5C4F6935
+Reference = C2;
+ValeurCmp = 100nF;
+IdModule  = Capacitor_SMD:C_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C5B973A
+Path = /5C4FFB90
+Reference = C3;
+ValeurCmp = 1uF;
+IdModule  = Capacitor_SMD:C_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C5CC987
+Path = /5C48BE3D
+Reference = J2;
+ValeurCmp = Conn_01x04;
+IdModule  = prog_header:prog_header;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C665C1E
+Path = /5C50BBB6
+Reference = J4;
+ValeurCmp = Conn_01x02;
+IdModule  = prog_header:prog_boot_header;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C6FF957
+Path = /5C52066A
+Reference = D1;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C6FF98D
+Path = /5C520810
+Reference = D2;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C6FF8F5
+Path = /5C50D59A
+Reference = R8;
+ValeurCmp = 1k;
+IdModule  = Resistor_SMD:R_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C6FF925
+Path = /5C50D605
+Reference = R9;
+ValeurCmp = 1k;
+IdModule  = Resistor_SMD:R_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C702090
+Path = /5C5362CB
+Reference = TP1;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D1.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C702098
+Path = /5C5367FB
+Reference = TP2;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D1.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C7020A0
+Path = /5C545E57
+Reference = TP3;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D1.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C7020A8
+Path = /5C545E0B
+Reference = TP4;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D1.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C7020B0
+Path = /5C545D5E
+Reference = TP5;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D1.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C702602
+Path = /5C54BB8D
+Reference = H1;
+ValeurCmp = MountingHole_Pad;
+IdModule  = MountingHole:MountingHole_2.7mm_M2.5;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C70274E
+Path = /5C574B61
+Reference = TP6;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D1.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C702756
+Path = /5C570883
+Reference = TP7;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D1.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C70275E
+Path = /5C570A4C
+Reference = TP8;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D1.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C702D1A
+Path = 
+Reference = G***;
+ValeurCmp = LOGO;
+IdModule  = ottifant:ottifant;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C690816
+Path = /5C48F6F1
+Reference = J3;
+ValeurCmp = Conn_01x04;
+IdModule  = strip_header:strip_header;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C690CA9
+Path = /5C5532E1
+Reference = H2;
+ValeurCmp = MountingHole_Pad;
+IdModule  = MountingHole:MountingHole_2.7mm_M2.5;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C690CB1
+Path = /5C55334F
+Reference = H3;
+ValeurCmp = MountingHole_Pad;
+IdModule  = MountingHole:MountingHole_2.7mm_M2.5;
+EndCmp
+
+EndListe

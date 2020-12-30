@@ -1,0 +1,25 @@
+### Module positions - created on Wed Dec 30 16:39:47 2020 ###
+### Printed by Pcbnew version kicad 5.1.8
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val          Package                   PosX       PosY       Rot  Side
+C1        100nF        C_0603_1608Metric     105.5000   -77.7875   90.0000  top
+C2        100nF        C_0603_1608Metric     105.5000   -81.0000  270.0000  top
+C3        1uF          C_0603_1608Metric     107.0000   -81.0000  270.0000  top
+D1        LED          LED_0603_1608Metric   132.0000   -80.5000  180.0000  top
+D2        LED          LED_0603_1608Metric   132.0000   -82.0000  180.0000  top
+Q1        AO3420       SOT-23                129.0000   -65.0000    0.0000  top
+Q2        AO3420       SOT-23                129.0000   -68.5000    0.0000  top
+Q3        AO3420       SOT-23                129.0000   -72.0000    0.0000  top
+R1        10k          R_0603_1608Metric     105.4625   -62.0500    0.0000  top
+R2        10k          R_0603_1608Metric     105.4625   -60.5500    0.0000  top
+R3        100k         R_0603_1608Metric     102.4625   -63.5500    0.0000  top
+R4        1k           R_0603_1608Metric     105.4625   -63.5500    0.0000  top
+R5        10k          R_0603_1608Metric     129.0000   -76.0000    0.0000  top
+R6        10k          R_0603_1608Metric     129.0000   -77.5000  180.0000  top
+R7        10k          R_0603_1608Metric     129.0000   -79.0000  180.0000  top
+R8        1k           R_0603_1608Metric     129.0000   -80.5000  180.0000  top
+R9        1k           R_0603_1608Metric     129.0000   -82.0000  180.0000  top
+U1        AMS1117-3.3  SOT-223-3_TabPin2     100.0000   -80.0000  180.0000  top
+U2        ESP-12E      ESP-12E               117.0750   -71.2250    0.0000  top
+## End
